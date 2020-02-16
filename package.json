@@ -1,0 +1,43 @@
+{
+  "name": "cypress-es6-modules-chai-expect",
+  "version": "1.0.0",
+  "description": "Cypress end-to-end test automation boilerplate, ES6 Modules. Chai, and Expect",
+  "scripts": {
+    "clean:video": "npx rimraf cypress/videos/*",
+    "clean:screenshots": "npx cypress/screenshots/*",
+    "lint": "npx eslint --ext .js ./ --fix",
+    "open": "npx cypress open",
+    "test": "npx cypress run",
+    "test-ci": "npx cypress run --headless"
+  },
+  "keywords": [
+    "cypress",
+    "boilerplate",
+    "example"
+  ],
+  "author": "Girma Nigusse <xgirma@gmail.com> (https://github.com/xgirma)",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "3.8.3",
+    "eslint": "6.8.0",
+    "eslint-config-airbnb-base": "14.0.0",
+    "eslint-config-prettier": "6.10.0",
+    "eslint-plugin-cypress": "2.10.1",
+    "eslint-plugin-import": "2.20.1",
+    "eslint-plugin-prettier": "3.1.2",
+    "husky": "4.2.3",
+    "lint-staged": "10.0.7",
+    "prettier": "1.19.1",
+    "rimraf": "3.0.2"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged"
+    }
+  },
+  "lint-staged": {
+    "*.js": [
+      "eslint --fix"
+    ]
+  }
+}
