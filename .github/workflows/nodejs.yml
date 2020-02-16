@@ -1,4 +1,4 @@
-name: cypress-es6-modules-chai-expect
+name: cypress-es6-modules-chai-assert
 
 on:
   push:
