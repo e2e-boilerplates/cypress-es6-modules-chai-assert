@@ -1,4 +1,4 @@
-# Cypress: (ES6 Modules. Chai and Assert)
+# Cypress: (ES6 modules, Chai and Assert)
 [![GitHub Actions status | e2e-boilerplates/cypress-es6-modules-chai-assert](https://github.com/e2e-boilerplates/cypress-es6-modules-chai-assert/workflows/cypress-es6-modules-chai-assert/badge.svg)](https://github.com/e2e-boilerplates/cypress-es6-modules-chai-assert/actions?workflow=cypress-es6-modules-chai-assert)
 
 
