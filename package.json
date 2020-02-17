@@ -13,7 +13,11 @@
   "keywords": [
     "cypress",
     "boilerplate",
-    "example"
+    "example",
+    "e2e",
+    "es6",
+    "e2e test",
+    "assert"
   ],
   "author": "Girma Nigusse <xgirma@gmail.com> (https://github.com/xgirma)",
   "license": "MIT",
