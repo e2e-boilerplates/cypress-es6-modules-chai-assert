@@ -7,15 +7,9 @@
     },
     "extends": [
         "airbnb-base",
-        "plugin:prettier/recommended"
+        "plugin:prettier/recommended",
+        "plugin:json/recommended"
     ],
-    "globals": {
-        "Atomics": "readonly",
-        "SharedArrayBuffer": "readonly"
-    },
-    "parserOptions": {
-        "ecmaVersion": 2018
-    },
     "plugins": [
         "cypress"
     ]

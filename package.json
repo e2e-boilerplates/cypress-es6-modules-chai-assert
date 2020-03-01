@@ -1,26 +1,6 @@
 {
-  "name": "cypress-es6-modules-chai-assert",
-  "version": "1.0.0",
-  "description": "Cypress end-to-end test automation boilerplate, using ES6 modules, Chai, and Assert",
-  "scripts": {
-    "clean:video": "npx rimraf cypress/videos/*",
-    "clean:screenshots": "npx cypress/screenshots/*",
-    "lint": "npx eslint --ext .js ./ --fix",
-    "open": "npx cypress open",
-    "test": "npx cypress run",
-    "test-ci": "npx cypress run --headless"
-  },
-  "keywords": [
-    "cypress",
-    "boilerplate",
-    "example",
-    "e2e",
-    "es6",
-    "e2e test",
-    "assert"
-  ],
   "author": "Girma Nigusse <xgirma@gmail.com> (https://github.com/xgirma)",
-  "license": "MIT",
+  "description": "Cypress end-to-end test automation boilerplate, using ES6 modules, Chai, and Assert",
   "devDependencies": {
     "cypress": "4.0.2",
     "eslint": "6.8.0",
@@ -28,6 +8,7 @@
     "eslint-config-prettier": "6.10.0",
     "eslint-plugin-cypress": "2.10.3",
     "eslint-plugin-import": "2.20.1",
+    "eslint-plugin-json": "^2.1.0",
     "eslint-plugin-prettier": "3.1.2",
     "husky": "4.2.3",
     "lint-staged": "10.0.7",
@@ -39,9 +20,35 @@
       "pre-commit": "lint-staged"
     }
   },
+  "keywords": [
+    "assert",
+    "boilerplate",
+    "chai",
+    "cypress",
+    "e2e",
+    "e2e tests",
+    "es6",
+    "example",
+    "integration test"
+  ],
+  "license": "MIT",
   "lint-staged": {
     "*.js": [
       "eslint --fix"
     ]
-  }
+  },
+  "name": "cypress-es6-modules-chai-assert",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/e2e-boilerplates/cypress-es6-modules-chai-assert.git"
+  },
+  "scripts": {
+    "clean:video": "npx rimraf cypress/videos/*",
+    "clean:screenshots": "npx cypress/screenshots/*",
+    "lint": "npx eslint --ext .js ./ --fix",
+    "open": "npx cypress open",
+    "test": "npx cypress run",
+    "test-ci": "npx cypress run --headless"
+  },
+  "version": "1.0.0"
 }
