@@ -1,4 +1,4 @@
-name: cypress-es6-modules-chai-assert
+name: cypress-es-modules-chai-assert
 
 on:
   push:
