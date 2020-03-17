@@ -1,4 +1,4 @@
-[![GitHub Actions status | e2e-boilerplate/cypress-es-modules-chai-assert](https://github.com/e2e-boilerplate/cypress-es-modules-chai-assert/workflows/cypress-es-modules-chai-assert/badge.svg)](https://github.com/e2e-boilerplate/cypress-es-modules-chai-assert/actions?workflow=cypress-es-modules-chai-assert)
+[![GitHub Actions status | e2e-boilerplate/cypress-es-modules-chai-assert](https://github.com/e2e-boilerplate/cypress-es-modules-chai-assert/workflows/cypress-es-modules-chai-assert/badge.svg)](https://github.com/e2e-boilerplate/cypress-es-modules-chai-assert/actions?workflow=cypress-es-modules-chai-assert) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
     
 # Cypress Boilerplate
     
