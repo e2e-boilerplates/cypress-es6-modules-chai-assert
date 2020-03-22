@@ -1,12 +1,12 @@
 {
-  "author": "Girma Nigusse <xgirma@gmail.com> (https://github.com/xgirma)",
+  "author": "Girma Nigusse <xgirma@gmail.com>",
   "bugs": {
     "url": "https://github.com/e2e-boilerplate/cypress-es-modules-chai-assert/issues"
   },
   "dependencies": {
     "cypress": "4.2.0",
     "rimraf": "3.0.2",
-    "ts-loader": "6.2.2"
+    "ts-loader": "6.2.1"
   },
   "description": "Cypress end-to-end test automation boilerplate. Using ES Modules, Chai and Assert.",
   "devDependencies": {
