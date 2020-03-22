@@ -1,4 +1,4 @@
-name: cypress-es-modules-chai-assert
+name: cypress-es-modules-assert
 'on':
   push: null
   schedule:
