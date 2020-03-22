@@ -1,5 +1,5 @@
 {
-  "author": "Girma Nigusse <xgirma@gmail.com> (https://github.com/xgirma)",
+  "author": "",
   "bugs": {
     "url": "https://github.com/e2e-boilerplate/cypress-es-modules-chai-assert/issues"
   },
@@ -28,13 +28,8 @@
   },
   "keywords": [
     "assert",
-    "boilerplate",
     "chai",
-    "cypress",
-    "e2e",
-    "e2e tests",
-    "example",
-    "integration test"
+    "cypress"
   ],
   "license": "MIT",
   "lint-staged": {
