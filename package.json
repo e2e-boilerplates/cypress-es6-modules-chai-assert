@@ -1,5 +1,5 @@
 {
-  "author": "",
+  "author": "Girma Nigusse <xgirma@gmail.com> (https://github.com/xgirma)",
   "bugs": {
     "url": "https://github.com/e2e-boilerplate/cypress-es-modules-chai-assert/issues"
   },
@@ -8,11 +8,11 @@
     "rimraf": "3.0.2",
     "ts-loader": "6.2.1"
   },
-  "description": "Cypress end-to-end test automation boilerplate. using ES Modules, Chai and Assert.",
+  "description": "Cypress end-to-end test automation boilerplate. Using ES Modules, Chai and Assert.",
   "devDependencies": {
     "eslint": "6.8.0",
     "eslint-config-airbnb-base": "14.1.0",
-    "eslint-config-prettier": "6.10.1",
+    "eslint-config-prettier": "6.10.0",
     "eslint-plugin-cypress": "2.10.3",
     "eslint-plugin-import": "2.20.1",
     "eslint-plugin-prettier": "3.1.2",
@@ -28,8 +28,13 @@
   },
   "keywords": [
     "assert",
+    "boilerplate",
     "chai",
-    "cypress"
+    "cypress",
+    "e2e",
+    "e2e tests",
+    "example",
+    "integration test"
   ],
   "license": "MIT",
   "lint-staged": {

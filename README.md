@@ -2,10 +2,12 @@
     
 # Cypress Boilerplate
     
-Cypress end-to-end test automation boilerplate, using ES Modules, Chai and Assert.
+Cypress end-to-end test automation boilerplate, Using ES Modules, Chai and Assert.
     
 ## Getting Started
     	1. git clone git@github.com:e2e-boilerplate/cypress-es-modules-chai-assert.git
     	2. cd cypress-es-modules-chai-assert
     	3. npm install
     	4. npm run test
+    
+[![Buy Me A Coffee](https://raw.githubusercontent.com/e2e-boilerplate/resources/master/buymecoffee.png)](https://www.buymeacoffee.com/xgirma)
