@@ -5,12 +5,12 @@
   },
   "dependencies": {
     "cypress": "4.2.0",
-    "eslint": "6.8.0",
     "rimraf": "3.0.2",
     "ts-loader": "6.2.1"
   },
   "description": "Cypress end-to-end test automation boilerplate. Using ES Modules, Chai and Assert.",
   "devDependencies": {
+    "eslint": "6.8.0",
     "eslint-config-airbnb-base": "14.1.0",
     "eslint-config-prettier": "6.10.1",
     "eslint-plugin-cypress": "2.10.3",
