@@ -4,11 +4,11 @@ describe("Sandbox", () => {
   });
 
   it("should be on Sandbox", () => {
-    cy.title(title => {
+    cy.title((title) => {
       assert.strictEqual(title, "Sandboxx");
     });
 
-    cy.get("h1").then($header => {
+    cy.get("h1").then(($header) => {
       const text = $header.text();
       assert.strictEqual(text, "Sandbox");
     });
