@@ -5,7 +5,8 @@
   },
   "dependencies": {
     "cypress": "4.3.0",
-    "rimraf": "3.0.2"
+    "rimraf": "3.0.2",
+    "ts-loader": "6.2.2"
   },
   "description": "Cypress end-to-end test automation boilerplate. Using ES Modules, Chai and Assert.",
   "devDependencies": {
