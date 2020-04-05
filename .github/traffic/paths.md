@@ -1,0 +1,12 @@
+| referrer                                                                           | count | uniques |
+| :--------------------------------------------------------------------------------- | :---- | :------ |
+| /e2e-boilerplate/cypress-es-modules-chai-assert/actions                            | 11    | 2       |
+| /e2e-boilerplate/cypress-es-modules-chai-assert                                    | 10    | 1       |
+| /e2e-boilerplate/cypress-es-modules-chai-assert/tree/master/.github                | 6     | 1       |
+| /e2e-boilerplate/cypress-es-modules-chai-assert/blob/master/.github/runs_status.md | 4     | 1       |
+| /e2e-boilerplate/cypress-es-modules-chai-assert/actions/runs/64985209              | 3     | 1       |
+| /e2e-boilerplate/cypress-es-modules-chai-assert/actions/runs/60873436              | 1     | 1       |
+| /e2e-boilerplate/cypress-es-modules-chai-assert/actions/runs/61854263              | 1     | 1       |
+| /e2e-boilerplate/cypress-es-modules-chai-assert/actions/runs/61947688              | 1     | 1       |
+| /e2e-boilerplate/cypress-es-modules-chai-assert/actions/runs/62659579              | 1     | 1       |
+| /e2e-boilerplate/cypress-es-modules-chai-assert/actions/runs/70310320              | 1     | 1       |
