@@ -4,7 +4,7 @@
     "url": "https://github.com/e2e-boilerplate/cypress-es-modules-chai-assert/issues"
   },
   "dependencies": {
-    "cypress": "4.10.0",
+    "cypress": "4.11.0",
     "rimraf": "3.0.2"
   },
   "description": "Cypress end-to-end test automation boilerplate. Using ES Modules, Chai and Assert.",
